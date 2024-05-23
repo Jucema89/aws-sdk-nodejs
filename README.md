@@ -15,9 +15,7 @@ Debes tener la versión de Node 20 o superior.
 4. `npm run dev`
 
 Ver en funcionamiento:
-```
-[![Watch the video](https://postimg.cc/18rkYvxT)](https://www.youtube.com/embed/gMb04871M2A)
-```
+[![Watch the video](https://i.postimg.cc/rwBqsHf8/aws-sdk-nodejs-image.png)](https://www.youtube.com/embed/gMb04871M2A)
 
 ## Rutas 
 
