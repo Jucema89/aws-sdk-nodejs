@@ -15,7 +15,9 @@ Debes tener la versión de Node 20 o superior.
 4. `npm run dev`
 
 Ver en funcionamiento:
-<iframe width="800" height="400" src="https://www.youtube.com/embed/gMb04871M2A" title="Implementación de SDK-AWS en Nodejs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+[![Watch the video](https://postimg.cc/18rkYvxT)](https://www.youtube.com/embed/gMb04871M2A)
+```
 
 ## Rutas 
 
