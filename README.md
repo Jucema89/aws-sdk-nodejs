@@ -14,6 +14,9 @@ Debes tener la versión de Node 20 o superior.
 3. `npm i`
 4. `npm run dev`
 
+Ver en funcionamiento:
+<iframe width="800" height="400" src="https://www.youtube.com/embed/gMb04871M2A" title="Implementación de SDK-AWS en Nodejs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Rutas 
 
 Estas son las rutas funcionales de la API. Asumiendo en ellas que el `PORT` es 3900, serian así:
